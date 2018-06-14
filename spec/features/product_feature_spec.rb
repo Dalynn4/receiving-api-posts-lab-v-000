@@ -10,7 +10,7 @@ RSpec.describe "Products", type: :feature do
 
   describe "creating products" do
     it 'shows created product and does not redirect', js: :true do
-      
+
     end
   end
 
