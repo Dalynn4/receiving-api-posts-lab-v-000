@@ -12,7 +12,7 @@ RSpec.describe ProductsController, type: :controller do
   describe "POST create" do
 
     it 'creates a new product without redirect' do
-      
+
     end
 
   end
